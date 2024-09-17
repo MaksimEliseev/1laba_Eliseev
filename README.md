@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.295" />
 ```
-- Далее я добавил логигку в Activity 2 (SecondActivity) для получения переданного параметра и его отображения в TextView:
+- В конце я добавил логигку в Activity 2 (SecondActivity) для получения переданного параметра и его отображения в TextView:
 ```java
   public class SecondActivity extends AppCompatActivity {
 
